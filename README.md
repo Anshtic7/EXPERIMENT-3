@@ -1,5 +1,9 @@
 # EXPERIMENT-3
 
+NAME: ANSH PRATAP SINGH
+
+PRN: 25070123143
+
 AIM OF THE EXPERIMENT:- To study and implement the concept of tuple in Python and perform operations such as accessing elements, counting occurrences, and checking conditions, and to understand the difference between tuple and list.
 
 THEORY:- difference between tuple and list
@@ -16,8 +20,7 @@ Tuple uses less memory than list
 
 Tuple is mainly used to store fixed or constant data.
 
-Algorithm 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Algorithm: Display Student Result Using Tuple
 
 Start
@@ -42,6 +45,7 @@ If true, display "Distinction"
 
 End
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Algorithm: Attendance Record Analysis Using Tuple
 
 Start
@@ -64,6 +68,7 @@ Otherwise, display "The employee was present every day during the recorded perio
 
 End
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conclusion
 
 In this experiment, we learned how to use tuples in Python to store fixed data and perform operations like counting values and accessing elements. We also understood the major differences between tuple and list, especially in terms of mutability and usage. Tuples are preferred when data should remain unchanged, while lists are useful when frequent modifications are required.
